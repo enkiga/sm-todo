@@ -1,4 +1,3 @@
-// src/components/TodoList.js
 import TodoItem from './TodoItem';
 
 const TodoList = ({ todos, setCurrentTodo, deleteTodo, toggleComplete }) => {
